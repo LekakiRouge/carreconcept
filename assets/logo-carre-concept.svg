@@ -1,0 +1,6 @@
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Carré Concept">
+  <rect x="2" y="2" width="56" height="56" rx="12" fill="#0f172a"/>
+  <path d="M16 30c0-7.7 6.3-14 14-14h12v8H30a6 6 0 100 12h12v8H30c-7.7 0-14-6.3-14-14z" fill="#f59e0b"/>
+  <text x="70" y="27" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">Carré</text>
+  <text x="70" y="46" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#334155">Concept</text>
+</svg>
